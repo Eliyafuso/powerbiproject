@@ -76,3 +76,6 @@ This was a collaborative project as part of a course assignment. Each member con
 - Delay patterns vary widely across **states, airlines, and airports**.
 
 ---
+
+## Disclaimer
+This project is for viewing purposes only. Unauthorized copying, modification, or distribution of this work is strictly prohibited.
